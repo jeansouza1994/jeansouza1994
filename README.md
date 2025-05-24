@@ -1,4 +1,4 @@
-# Olá! Meu nome é Jean - Desenvolvedor Full Stack
+# Olá! Meu nome é Jean
 <div align="center">
   <a href="mailto:jeansouza199487@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
@@ -12,7 +12,7 @@
 </div>
 <br>
 
-## Desenvolvedor Front-End | Aprendendo Back-End
+## Desenvolvedor Full Stack
 
 Sou um desenvolvedor frontend com experiência em HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de conhecimento em Figma para a criação de interfaces modernas e responsivas. Tenho familiaridade com metodologias ágeis (Scrum) e habilidades em análise crítica, correção de bugs e resolução de problemas.
 
