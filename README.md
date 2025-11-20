@@ -5,22 +5,20 @@
   </a>
   <a href="https://www.linkedin.com/in/jean-souza-383b5722a/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-    <a href="https://portfolio-tau-plum-49.vercel.app/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-28a745?style=for-the-badge&logo=About.me&logoColor=white)" alt="Portfólio">
-  </a>
 </div>
 <br>
 
-## Desenvolvedor Full Stack
+## Desenvolvedor Back End
 
-Sou um desenvolvedor frontend com experiência em HTML, CSS, JavaScript, Bootstrap, Git e GitHub, além de conhecimento em Figma para a criação de interfaces modernas e responsivas. Tenho familiaridade com metodologias ágeis (Scrum) e habilidades em análise crítica, correção de bugs e resolução de problemas.
+Sou um desenvolvedor Back-End especializado em Java e seu ecossistema, com foco na construção de aplicações robustas, escaláveis e de alta performance.
 
-Atualmente, estou expandindo meus conhecimento no frontend, estudando React, Angular, Tailwind, Next.js, além de utilizar gerenciadores de pacotes (NPM e Yarn) para otimizar o fluxo de trabalho.
+Atuo principalmente com Java, utilizando o Spring Framework e suas principais tecnologias, como Spring Boot e Spring Data JPA, para desenvolvimento de APIs RESTful e integração entre sistemas. Tenho experiência também com Struts e JSP, além de conhecimentos em JPA/Hibernate e Maven.
 
-No backend, estou me aprofundando em Java, Python, node.js e Express, além do consumo de REST APIs e gerenciamento de bancos de dados MySQL e PostgreSQL.
+Trabalho com SQL Server para consultas e manipulação de dados, e também possuo familiaridade com MySQL e PostgreSQL. Utilizo Git, GitHub e GitLab para versionamento de código.
 
-Atualmente, estou no 3º período do curso presencial de Análise e Desenvolvimento de Sistemas.
+Tenho experiência com metodologias ágeis (Scrum), boa capacidade de análise crítica, identificação e correção de bugs, além de foco constante em otimização de desempenho e resolução de problemas.
+
+Atualmente, curso o 4º período de Análise e Desenvolvimento de Sistemas de forma presencial.
 
 <table>
   <tr>
@@ -39,7 +37,7 @@ Atualmente, estou no 3º período do curso presencial de Análise e Desenvolvime
 
 ### Back-end
 <div>
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,nextjs,python" alt="Back-end" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Back-end" height="40"/>
 </div>
 
 ### Front-end
