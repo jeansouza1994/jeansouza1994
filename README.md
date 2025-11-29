@@ -20,17 +20,6 @@ Tenho experiência com metodologias ágeis (Scrum), boa capacidade de análise c
 
 Atualmente, curso o 4º período de Análise e Desenvolvimento de Sistemas de forma presencial.
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jeansouza1994&show_icons=true&theme=city_lights"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=jeansouza1994&mode=weekly&theme=city_lights&stroke=D3D1D1&border=E4E2E2"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Tecnologias & Ferramentas
